@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://example.com
+https://matkonim.zappy5.app
 מחפשים רעיונות מהירים וטעימים לארוחת ערב? באתר תמצאו מגוון מתכונים קלים להכנה, כולל מנות עוף מושלמות, שיהפכו כל ערב לחוויה קולינרית. היכנסו עכשיו וקבלו השראה!
 
 ### השראה למתכונים
-https://example.com/recipe-inspiration
+https://matkonim.zappy5.app/recipe-inspiration
 תקועים עם אותו התפריט? דפדפו בין שלל קטגוריות מעוררות השראה, מחזה עוף עסיסי ועד מנות צמחוניות מפתיעות. גלו את המתכון הבא שלכם עוד היום והפתיעו את המשפחה!
 
 ### בישול בריא
-https://example.com/healthy-cooking
+https://matkonim.zappy5.app/healthy-cooking
 רוצים ליהנות ממתכונים טעימים ששומרים על הבריאות? חקרו את המדריך שלנו לבישול בריא, עם דגש על מנות עוף מזינות ורעיונות קלים לארוחת ערב שכל המשפחה תאהב. התחילו לבשל חכם יותר!
 
 ### אודות
-https://example.com/about
+https://matkonim.zappy5.app/about
 סקרנים לדעת מי עומד מאחורי המתכונים המנצחים? היכנסו להכיר את הסיפור שלנו, האהבה לבישול והמחויבות להביא לכם את מנות העוף והארוחות הקלות הכי שוות ברשת. בואו להיות חלק מהמסע!
 
 ### צור קשר
-https://example.com/contact
+https://matkonim.zappy5.app/contact
 יש לכם שאלה על מתכון עוף מסוים או רעיון לארוחת ערב קלה? צרו איתנו קשר ישירות! נשמח לשמוע מכם, לענות על כל שאלה ולעזור לכם להפוך כל בישול לחוויה מוצלחת. כתבו לנו עוד היום!
 
 ### Products
-https://example.com/products
+https://matkonim.zappy5.app/products
 המוצרים שלנו - מתכונים
 
 ### Product Detail
-https://example.com/product/:slug
+https://matkonim.zappy5.app/product/:slug
 פרטי המוצר - מתכונים
 
 ### Category
-https://example.com/category/:slug
+https://matkonim.zappy5.app/category/:slug
 מוצרים - מתכונים
 
 ### תודה רבה | מתכונים
-https://example.com/thank-you
+https://matkonim.zappy5.app/thank-you
 ההודעה שלך התקבלה בהצלחה. צוות האתר יחזור אליך בהקדם האפשרי בנושא מתכונים לארוחת ערב קלה ועוד.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://matkonim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://matkonim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://matkonim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -84,8 +84,8 @@ Food & Recipes
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://matkonim.zappy5.app/sitemap.xml
+- Robots: https://matkonim.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://matkonim.zappy5.app/llms-full.txt
+- Products (JSON): https://matkonim.zappy5.app/products.json
+- Products (Google Merchant RSS): https://matkonim.zappy5.app/product-feed.xml

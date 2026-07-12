@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://-a9812987.zappy5.app
+https://example.com
 מחפשים רעיונות מהירים וטעימים לארוחת ערב? באתר תמצאו מגוון מתכונים קלים להכנה, כולל מנות עוף מושלמות, שיהפכו כל ערב לחוויה קולינרית. היכנסו עכשיו וקבלו השראה!
 
 ### השראה למתכונים
-https://-a9812987.zappy5.app/recipe-inspiration
+https://example.com/recipe-inspiration
 תקועים עם אותו התפריט? דפדפו בין שלל קטגוריות מעוררות השראה, מחזה עוף עסיסי ועד מנות צמחוניות מפתיעות. גלו את המתכון הבא שלכם עוד היום והפתיעו את המשפחה!
 
 ### בישול בריא
-https://-a9812987.zappy5.app/healthy-cooking
+https://example.com/healthy-cooking
 רוצים ליהנות ממתכונים טעימים ששומרים על הבריאות? חקרו את המדריך שלנו לבישול בריא, עם דגש על מנות עוף מזינות ורעיונות קלים לארוחת ערב שכל המשפחה תאהב. התחילו לבשל חכם יותר!
 
 ### אודות
-https://-a9812987.zappy5.app/about
+https://example.com/about
 סקרנים לדעת מי עומד מאחורי המתכונים המנצחים? היכנסו להכיר את הסיפור שלנו, האהבה לבישול והמחויבות להביא לכם את מנות העוף והארוחות הקלות הכי שוות ברשת. בואו להיות חלק מהמסע!
 
 ### צור קשר
-https://-a9812987.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מתכון עוף מסוים או רעיון לארוחת ערב קלה? צרו איתנו קשר ישירות! נשמח לשמוע מכם, לענות על כל שאלה ולעזור לכם להפוך כל בישול לחוויה מוצלחת. כתבו לנו עוד היום!
 
 ### Products
-https://-a9812987.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מתכונים
 
 ### Product Detail
-https://-a9812987.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מתכונים
 
 ### Category
-https://-a9812987.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מתכונים
 
 ### תודה רבה | מתכונים
-https://-a9812987.zappy5.app/thank-you
+https://example.com/thank-you
 ההודעה שלך התקבלה בהצלחה. צוות האתר יחזור אליך בהקדם האפשרי בנושא מתכונים לארוחת ערב קלה ועוד.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-a9812987.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-a9812987.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-a9812987.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -84,8 +84,8 @@ Food & Recipes
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-a9812987.zappy5.app/sitemap.xml
-- Robots: https://-a9812987.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-a9812987.zappy5.app/llms-full.txt
-- Products (JSON): https://-a9812987.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-a9812987.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
